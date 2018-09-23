@@ -15,6 +15,7 @@ const LambdaDemo = () => (
       query={gql`
         {
           hello
+          dogPhotoUrl
         }
       `}
     >
